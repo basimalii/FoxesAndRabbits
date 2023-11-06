@@ -1,5 +1,5 @@
 # FoxesAndRabbits
-This predator-prey simulation ('Foxes and Rabbits') leverages essential
+This predator-prey simulation, *Foxes and Rabbits*, leverages essential
 Object-Oriented Programming concepts, including encapsulation and inheritance,
 to model the interactions between foxes and rabbits. Built a user-friendly GUI with
 Java Swing and ensured code reliability through rigorous JUnit testing.
